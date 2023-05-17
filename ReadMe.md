@@ -1,5 +1,5 @@
-code:https://github.com/YaelCassini/CG_HW
-video:https://www.bilibili.com/video/BV17m4y1Z7JB/
+code:https://github.com/YaelCassini/CG_HW <br>
+video:https://www.bilibili.com/video/BV17m4y1Z7JB/ <br>
 report:
 
 Command：
